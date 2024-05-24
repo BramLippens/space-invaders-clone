@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1712939757
+::res://::1714648579
 Brown.png::CompressedTexture2D::3887481883526375022::1712922620::1712922624::1::::<><>::
 cooltext455748714420853.png::CompressedTexture2D::6502944877551652702::1712923609::1712923613::1::::<><>::
 End (Idle).png::CompressedTexture2D::6066499655349062151::1712915679::1712915691::1::::<><>::
@@ -27,14 +27,15 @@ Idle (32x32).png::CompressedTexture2D::3412285489971677890::1712841410::17128414
 Jump (32x32).png::CompressedTexture2D::4246228351014922677::1712841410::1712841410::1::::<><>::
 Run (32x32).png::CompressedTexture2D::1022636524640584174::1712841410::1712841410::1::::<><>::
 Wall Jump (32x32).png::CompressedTexture2D::7185597942971805243::1712841410::1712841410::1::::<><>::
-::res://scenes/::1712931453
+::res://scenes/::1714637277
+collectable.cs::CSharpScript::-1::1714637595::0::1::::<><>::
 collectable.gd::GDScript::-1::1712922388::0::1::::<>Area2D<>::
-collectable.tscn::PackedScene::934793078398433223::1712914975::0::1::::<><>::uid://c4btx5lvbieln::::res://Fruits/Strawberry.png<>res://scenes/collectable.gd
+collectable.tscn::PackedScene::934793078398433223::1714637277::0::1::::<><>::res://scenes/collectable.cs<>uid://c4btx5lvbieln::::res://Fruits/Strawberry.png
 finish.gd::GDScript::-1::1712924541::0::1::::<>Area2D<>::
 finish.tscn::PackedScene::2312701187205846544::1712924541::0::1::::<><>::uid://csowmlvh3m73p::::res://End (Idle).png<>res://scenes/finish.gd
-level2.tscn::PackedScene::5448063405776643231::1712931453::0::1::::<><>::res://game_manager.gd<>uid://bvnei2ad68ym5::::res://Brown.png<>uid://mtlwq2n6hbed::::res://Terrain (16x16).png<>uid://prca21j6rx25::::res://scenes/main_character.tscn<>uid://nk251w4xkn6v::::res://scenes/collectable.tscn<>uid://77j36mqevo4w::::res://scenes/finish.tscn<>uid://due51lqwi7hte::::res://scenes/main_menu.tscn
-main.tscn::PackedScene::5314993581148114117::1712931453::0::1::::<><>::res://game_manager.gd<>uid://bxev2j3a3iok3::::res://Green.png<>uid://mtlwq2n6hbed::::res://Terrain (16x16).png<>uid://prca21j6rx25::::res://scenes/main_character.tscn<>uid://nk251w4xkn6v::::res://scenes/collectable.tscn<>uid://77j36mqevo4w::::res://scenes/finish.tscn<>uid://cjvc2qoiuv0vj::::res://scenes/level2.tscn
+level2.tscn::PackedScene::5448063405776643231::1712939760::0::1::::<><>::res://game_manager.gd<>uid://bvnei2ad68ym5::::res://Brown.png<>uid://mtlwq2n6hbed::::res://Terrain (16x16).png<>uid://prca21j6rx25::::res://scenes/main_character.tscn<>uid://nk251w4xkn6v::::res://scenes/collectable.tscn<>uid://77j36mqevo4w::::res://scenes/finish.tscn<>uid://due51lqwi7hte::::res://scenes/main_menu.tscn
+main.tscn::PackedScene::5314993581148114117::1712939760::0::1::::<><>::res://game_manager.gd<>uid://bxev2j3a3iok3::::res://Green.png<>uid://mtlwq2n6hbed::::res://Terrain (16x16).png<>uid://prca21j6rx25::::res://scenes/main_character.tscn<>uid://nk251w4xkn6v::::res://scenes/collectable.tscn<>uid://77j36mqevo4w::::res://scenes/finish.tscn<>uid://cjvc2qoiuv0vj::::res://scenes/level2.tscn
 main_character.gd::GDScript::-1::1712924658::0::1::::<>CharacterBody2D<>::
-main_character.tscn::PackedScene::1088049969121444520::1712931453::0::1::::<><>::res://scenes/main_character.gd<>uid://b1q504hba5gj2::::res://Mask Dude/Jump (32x32).png<>uid://bou63xcc6wfrm::::res://Mask Dude/Idle (32x32).png<>uid://otmw6k4jitm1::::res://Mask Dude/Run (32x32).png
+main_character.tscn::PackedScene::1088049969121444520::1712939761::0::1::::<><>::res://scenes/main_character.gd<>uid://b1q504hba5gj2::::res://Mask Dude/Jump (32x32).png<>uid://bou63xcc6wfrm::::res://Mask Dude/Idle (32x32).png<>uid://otmw6k4jitm1::::res://Mask Dude/Run (32x32).png
 main_menu.gd::GDScript::-1::1712923929::0::1::::<>Node<>::
 main_menu.tscn::PackedScene::8573164978765969894::1712923935::0::1::::<><>::res://scenes/main_menu.gd<>uid://bx83ro3f4sh2v::::res://Purple.png<>uid://cywcs1fopg47k::::res://cooltext455748714420853.png

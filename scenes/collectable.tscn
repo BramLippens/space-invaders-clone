@@ -1,7 +1,7 @@
 [gd_scene load_steps=22 format=3 uid="uid://nk251w4xkn6v"]
 
+[ext_resource type="Script" path="res://scenes/collectable.cs" id="1_7tkg1"]
 [ext_resource type="Texture2D" uid="uid://c4btx5lvbieln" path="res://Fruits/Strawberry.png" id="1_tarni"]
-[ext_resource type="Script" path="res://scenes/collectable.gd" id="1_yhtm1"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dykta"]
 atlas = ExtResource("1_tarni")
@@ -134,7 +134,7 @@ animations = [{
 radius = 16.4924
 
 [node name="Collectable" type="Area2D"]
-script = ExtResource("1_yhtm1")
+script = ExtResource("1_7tkg1")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 texture_filter = 1

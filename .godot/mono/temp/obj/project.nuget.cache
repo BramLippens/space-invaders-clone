@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSBpHzpijkT1bCKVQsz7wLJ288u9t+cHXu33ylDBZVCVOe3lnprwraHoWIXzfbv8EOkXKdasZR6N9P5G06dg9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BramLippens\\Documents\\Poc-SpaceInvaders\\Poc-SpaceInvaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BramLippens\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\BramLippens\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\BramLippens\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
